@@ -1,0 +1,3 @@
+finish this wonderful book
+start a wonderful haskell project
+life is short, learn haskell
